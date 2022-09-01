@@ -6,16 +6,16 @@
     "email": "enokij@hawaii.edu",
     "phone": "808-333-4444",
     "website": "https://enokij.github.io",
-    "summary": "I am studying for a B.S. in Accocunting and MIS at Shidler College of Business at the University of Hawaii. I expect to graduate in Spring 2023.",
+    "summary": "I am studying for a BBA in Accocunting and MIS at Shidler College of Business at the University of Hawaii. I expect to graduate in Spring 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/enokij" },
+      { "network": "github", "username": "enokij", "url": "http://github.com/enokij" },
     ]
   },
   "interests": [
     { "name": "Basketball" },
     { "name": "Video Games" },
-    { "name": "3D Graphics" }
+    { "name": "Digital Design" }
   ],
   "skills": [
     {
