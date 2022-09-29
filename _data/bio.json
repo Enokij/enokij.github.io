@@ -9,7 +9,7 @@
     "summary": "I am studying for a BBA in Accocunting and MIS at Shidler College of Business at the University of Hawaii. I expect to graduate in Spring 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "enokij", "url": "http://github.com/enokij" },
+      { "network": "github", "username": "enokij", "url": "http://github.com/enokij" }
     ]
   },
   "interests": [
@@ -21,7 +21,7 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Java", "Javascript" ]
-    },
+    }
   
   ],
   "education": [
@@ -30,7 +30,7 @@
       "area": "Accounting and MIS (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -63,7 +63,7 @@
       "date": "2017-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+    }
   ],
   "references": [
     {
