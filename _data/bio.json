@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Justin Enoki",
+    "label": "Student",
+    "picture": "https://github.com/enokij.png",
+    "email": "enokij@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://enokij.github.io",
+    "summary": "I am studying for a BBA in Accocunting and MIS at Shidler College of Business at the University of Hawaii. I expect to graduate in Spring 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "enokij", "url": "http://github.com/enokij" }
+    ]
+  },
+  "interests": [
+    { "name": "Basketball" },
+    { "name": "Video Games" },
+    { "name": "Digital Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript" ]
+    }
+  
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Accounting and MIS (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "Nancy Timko Business Services Inc.",
+      "position": "Tax Accountant Assistant",
+      "website": "",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "highlights": [
+        "Supplied detailed tax documentation needed to submit accurate corporate and individual returns.",
+        "Stored copies of completed returns and related documents according to company procedures and business regulations"
+      ]
+    },
+    {
+      "company": "UH Manoa HIGP",
+      "position": "Fiscal Assistant",
+      "startDate": "2019-10-01",
+      "endDate": "2020-09-15",
+      "highlights": [
+        "Assisted bookkeeper in maintaining accounts receivable and payable",
+        "Prepared month-end closing entries for detailed reporting and recordkeeping"
+      ]
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2017-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
